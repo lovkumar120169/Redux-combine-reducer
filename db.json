@@ -1,0 +1,39 @@
+{
+  "Todos": [
+    {
+      "title": "Learn React",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "Learn Redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Java",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn JavaScript",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Learn MongoDB",
+      "status": true,
+      "id": 6
+    },
+    {
+      "title": "Learn Express",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Learn Next.js",
+      "status": true,
+      "id": 8
+    }
+  ]
+}
